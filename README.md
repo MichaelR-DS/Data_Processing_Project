@@ -1,2 +1,2 @@
 # Used-Cars-Data-Cleaning-Project
-Data uploaded to data.world. Cleaning 
+Cleaning and analysing a dataset uploaded to data.world so that it may be ready for model-building.
